@@ -6,5 +6,5 @@ The data behind the maps can be downloaded [here](https://ddosecrets.com/wiki/Pa
 
 An example of the maps can be seen in the map of the United Kingdom shown below. The United Kingdom is the country in Europe with the most video uploads from Parler.
 
-<img src="https://github.com/alexpcapp/parler-maps-europe/blob/main/united_kingdom.png" width="600">  
+<img src="https://github.com/alexpcapp/parler-maps-europe/blob/main/maps/united-kingdom.png" width="600">  
 
